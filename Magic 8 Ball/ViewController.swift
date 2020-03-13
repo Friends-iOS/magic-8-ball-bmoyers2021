@@ -6,6 +6,8 @@
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
+//GREAT DESIGN CHOICES. EXCELLENT WORK! - ADAM
+
 import UIKit
 
 class ViewController: UIViewController {
